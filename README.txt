@@ -1,4 +1,4 @@
-I did a little programm using python.
+I did a little programm using python and selenium.
 
 What the programm does is book me the next hour by getting the current hour, fill the parameters automatically and finally book.
 
