@@ -1,3 +1,7 @@
+#IMPORTANT: SINCE RESTRICTION WERE LIFTED, IS NOT REQUIRED TO BOOK AN HOUR ANYMORE, SO THIS PROJECT IS CANCELLED#
+
+
+
 I did a little programm using python and selenium.
 
 What the programm does is book me the next hour by getting the current hour, fill the parameters automatically and finally book.
